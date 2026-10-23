@@ -1,6 +1,5 @@
-
 def main():
-    print("Welcome to the application")
+    print("Welcome Developer 2")
 
 if __name__ == "__main__":
     main()
